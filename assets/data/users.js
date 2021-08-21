@@ -64,7 +64,7 @@ export default [
   },
   {
     id: '5',
-    name: 'Bella',
+    name: 'Paco',
     image:
       'https://cdn.pixabay.com/photo/2019/07/06/11/50/cat-4320330_960_720.jpg',
     bio: 'Hola pretty lady',
